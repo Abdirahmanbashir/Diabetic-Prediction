@@ -1,17 +1,17 @@
-                Kaggle Dataset
-                      ↓
-                   Pandas
-                      ↓
-                    EDA
-                      ↓
-                Preprocessing
-                      ↓
-          GradientBoostingClassifier
-                      ↓
-                  Evaluation
-                      ↓
-               Save Model (.pkl)
-                      ↓
-                  Streamlit
-                      ↓
-              Web Prediction App
+              Kaggle Dataset
+      ↓
+Pandas
+      ↓
+EDA
+      ↓
+Data Preprocessing
+      ↓
+Feature Selection
+      ↓
+Train/Test Split
+      ↓
+GradientBoostingClassifier
+      ↓
+Model Evaluation
+      ↓
+New Patient Prediction
