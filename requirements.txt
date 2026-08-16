@@ -1,0 +1,17 @@
+                Kaggle Dataset
+                      ↓
+                   Pandas
+                      ↓
+                    EDA
+                      ↓
+                Preprocessing
+                      ↓
+          GradientBoostingClassifier
+                      ↓
+                  Evaluation
+                      ↓
+               Save Model (.pkl)
+                      ↓
+                  Streamlit
+                      ↓
+              Web Prediction App
