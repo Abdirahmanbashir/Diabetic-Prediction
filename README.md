@@ -1,3 +1,4 @@
+
 # Diabetes Prediction Using Gradient Boosting
 
 This project uses machine learning to predict whether a patient has diabetes based on medical information.
@@ -26,3 +27,4 @@ For the example patient, the model predicted Diabetes with a probability of 53.5
 This project demonstrates the basic machine learning pipeline from data loading and exploration to model training, evaluation, and prediction.
 
 This model is for educational purposes and should not be used as a medical diagnostic tool.
+
